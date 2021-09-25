@@ -1,4 +1,4 @@
 # portfolio1.github.io
-my firts portfolio
+my first portfolio
 with bootstrap v3
 
